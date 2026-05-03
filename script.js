@@ -197,7 +197,7 @@ function openProject(p) {
       impact: "Reduced manual workload significantly by enabling voice-driven automation. Improved productivity by integrating APIs and real-time execution.",
       tech: "Python, System Libraries, APIs, AI Models",
       works: "Have a detailed description in my Github Page or watch Video to know more",
-      github: "https://github.com/SanthoshKanakapudi/AI-Assistant-for-PC",
+      github: "https://github.com/SanthoshKanakapudi/AI-Assistant-for-Desktop",
       youtube: "https://youtu.be/GZBS4hCaZnM?si=2Wreb89I31Ngw5nn"
     },
 
