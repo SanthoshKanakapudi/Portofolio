@@ -197,19 +197,19 @@ function openProject(p) {
       impact: "Reduced manual workload significantly by enabling voice-driven automation. Improved productivity by integrating APIs and real-time execution.",
       tech: "Python, System Libraries, APIs, AI Models",
       works: "Have a detailed description in my Github Page or watch Video to know more",
-      github: "#",
-      youtube: "#"
+      github: "https://github.com/SanthoshKanakapudi/AI-Assistant-for-PC",
+      youtube: "https://youtu.be/GZBS4hCaZnM?si=2Wreb89I31Ngw5nn"
     },
 
     home: {
-      title: "VOice Controlled Home Automation",
+      title: "Smart Voice Controlled Home Automation",
       img: "assets/home_automation.png",
       desc: "Smart system for controlling appliances remotely.",
       impact: "Enabled efficient energy usage and remote control of devices. Provided seamless integration between hardware and software.",
       tech: "Arduino, ESP8266, Web(Blynk Cloud), Python, Google Assitant",
       works: "Have a detailed description in my Github Page or watch Video to know more",
       github: "https://github.com/SanthoshKanakapudi/Voice-Controlled-Home-Automation",
-      youtube: "#"
+      youtube: "https://youtu.be/7QBbJY5o2F8?si=02jQbKK07BgBqFAk"
     },
 
     eye: {
@@ -218,7 +218,7 @@ function openProject(p) {
       desc: "Cursor control using eye tracking.",
       impact: "Improved accessibility for physically challenged users. Demonstrated real-time vision-based interaction.",
       tech: "Python, OpenCV",
-      works: "Have a detailed description in my Github Page or watch Video to know more",
+      works: "Have a detailed description in my Github Page to know more (No Demo Video Available)",
       github: "https://github.com/SanthoshKanakapudi/Face-Authorized-HCI-using-Eyeball-Movement",
       youtube: "#"
     },
@@ -231,7 +231,7 @@ function openProject(p) {
       tech: "Arduino, Sensors",
       works: "Have a detailed description in my Github Page or watch Video to know more",
       github: "https://github.com/SanthoshKanakapudi/Fire-Detection-Robot-Project",
-      youtube: "#"
+      youtube: "https://youtu.be/bNNthD1Ggng?si=Zo5zJQM1ML2of7yR"
     }
   };
 
