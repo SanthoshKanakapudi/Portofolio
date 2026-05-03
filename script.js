@@ -198,7 +198,7 @@ function openProject(p) {
       tech: "Python, System Libraries, APIs, AI Models",
       works: "Have a detailed description in my Github Page or watch Video to know more",
       github: "https://github.com/SanthoshKanakapudi/AI-Assistant-for-Desktop",
-      youtube: "https://youtu.be/GZBS4hCaZnM?si=2Wreb89I31Ngw5nn"
+      youtube: "https://youtu.be/GZBS4hCaZnM?si=FXnGeeyBxXxBB3hj"
     },
 
     home: {
@@ -245,7 +245,7 @@ function openProject(p) {
   document.getElementById("works").innerText = d.works;
 
   document.getElementById("github").href = d.github;
-  document.getElementById("youtube").href = d.youtube;
+document.getElementById("youtube").href = d.youtube;
 
   modal.classList.add("show");
 }
