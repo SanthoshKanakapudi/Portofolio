@@ -232,6 +232,16 @@ function openProject(p) {
       works: "Have a detailed description in my Github Page or watch Video to know more",
       github: "https://github.com/SanthoshKanakapudi/Fire-Detection-Robot-Project",
       youtube: "https://youtu.be/bNNthD1Ggng?si=Zo5zJQM1ML2of7yR"
+    },
+    todo: {
+      title: "Basic Todo Web App",
+      img: "assets/todo_app.jpg",
+      desc: "{Developed a web-based task management application to create, manage, and organize daily tasks.",
+      impact: "Designed a responsive user interface for improved usability and task tracking.",
+      tech: "HTML, CSS, JS",
+      works: "Have a detailed description in my Github Page or watch Live Page to know more",
+      github: "https://github.com/SanthoshKanakapudi/Todo-App",
+      youtube: "https://santhoshkanakapudi.github.io/Todo-App/"
     }
   };
 
